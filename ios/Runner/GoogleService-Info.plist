@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>467347340539-cbgs6npln1pafgu8c827iqj3svsd2ni6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.467347340539-cbgs6npln1pafgu8c827iqj3svsd2ni6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDT8_2xYyQcCHQ0gbCUcAauBKBXKYXEngM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>467347340539</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.j0im.cafeRecitV01</string>
+	<key>PROJECT_ID</key>
+	<string>cafe-recit-v01</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cafe-recit-v01.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:467347340539:ios:2e3aca3db1e05877</string>
+	<key>DATABASE_URL</key>
+	<string>https://cafe-recit-v01.firebaseio.com</string>
+</dict>
+</plist>

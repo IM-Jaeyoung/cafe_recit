@@ -28,6 +28,13 @@ dependencies:
   # https://pub.dev/packages/flutter_signin_button
   flutter_signin_button: ^0.2.8
 
+  # google login
+  # https://medium.com/@anjaliverma471/flutter-google-signin-firebase-authentication-37b101d4be31
+  # https://www.youtube.com/watch?v=WIG4TxLYQk0
+  # https://stackoverflow.com/questions/42197729/app-getting-crash-when-click-on-googlesignin-button
+  firebase_auth: ^0.14.0+4
+  google_sign_in: ^4.0.7
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
