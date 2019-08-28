@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_signin_button/flutter_signin_button.dart';
 
 class LoginPage extends StatelessWidget {
   @override
@@ -17,9 +18,7 @@ class LoginPage extends StatelessWidget {
                   fontWeight: FontWeight.bold),
             ),
             Padding(padding: EdgeInsets.all(50.0)),
-            Text(
-              'google login button'
-            )
+            SignInButton(Buttons.Google, onPressed: () {}),
           ],
         ),
       ),
